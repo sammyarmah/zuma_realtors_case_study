@@ -1,0 +1,409 @@
+features_id,bedrooms,squareFootage,features,bathrooms,lotSize
+0,3.0,1602.0,"{'architectureType': 'Two Family', 'cooling': True, 'coolingType': 'Commercial', 'exteriorType': 'Brick / Stone', 'floorCount': 2, 'garage': True, 'garageType': 'Garage', 'roofType': 'Gravel', 'unitCount': 2}",2.0,2023.0
+1,3.0,1480.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Aluminum / Vinyl Siding', 'fireplace': True, 'floorCount': 1, 'garage': True, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Central', 'roofType': 'Asbestos'}",0.0,9675.0
+2,3.0,1813.0,unknown,2.5,0.0
+3,0.0,0.0,{},0.0,0.0
+4,2.0,2467.0,"{'architectureType': 'Conventional', 'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Combination', 'fireplace': True, 'floorCount': 2, 'garage': True, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Baseboard', 'roomCount': 5, 'unitCount': 1, 'foundationType': 'Raised'}",2.5,0.0
+5,3.0,1618.0,unknown,2.0,0.0
+6,3.0,1400.0,"{'architectureType': 'Traditional', 'cooling': True, 'coolingType': 'Commercial', 'exteriorType': 'Brick', 'fireplace': True, 'floorCount': 1, 'foundationType': 'Stone', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Composition Shingle', 'unitCount': 1}",1.0,21780.0
+7,2.0,0.0,unknown,1.0,0.0
+8,2.0,689.0,"{'heating': True, 'heatingType': 'Hot Water / Steam', 'unitCount': 1}",1.0,0.0
+9,0.0,2569.0,"{'cooling': True, 'coolingType': 'Refrigeration', 'exteriorType': 'Wood', 'floorCount': 1, 'garage': True, 'garageSpaces': 2, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Forced Air', 'pool': True, 'roofType': 'Other', 'roomCount': 9, 'unitCount': 1}",3.0,7688.0
+10,4.0,3189.0,"{'architectureType': 'Contemporary', 'cooling': True, 'coolingType': 'Commercial', 'exteriorType': 'Aluminum / Vinyl Siding', 'floorCount': 2, 'garage': True, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Central', 'roomCount': 9}",2.5,22216.0
+11,3.0,1076.0,"{'architectureType': 'Split Level', 'cooling': True, 'coolingType': 'Commercial', 'exteriorType': 'OTHER', 'fireplace': True, 'floorCount': 2, 'foundationType': 'OTHER', 'garage': True, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Central', 'roofType': 'Composition Shingle', 'roomCount': 6}",2.0,7405.0
+12,1.0,700.0,unknown,1.0,4375.0
+13,3.0,1131.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Other', 'fireplace': True, 'floorCount': 1, 'foundationType': 'Raised', 'heating': True, 'heatingType': 'Heat Pump', 'roofType': 'Asphalt', 'roomCount': 5, 'unitCount': 1}",1.5,12575.0
+14,3.0,1940.0,unknown,2.5,8712.0
+15,1.0,450.0,{},1.0,0.0
+16,2.0,1436.0,"{'architectureType': 'Condo / Apartment', 'exteriorType': 'Concrete Block', 'floorCount': 1, 'heating': True, 'heatingType': 'Forced Air', 'roomCount': 5, 'unitCount': 1}",2.0,1000.0
+17,3.0,1667.0,"{'architectureType': 'Ranch', 'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Aluminum / Vinyl Siding', 'fireplace': True, 'fireplaceType': 'Prefab', 'floorCount': 2, 'foundationType': 'Footing', 'garage': True, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Composition Shingle', 'unitCount': 1}",2.5,7405.0
+18,3.0,1125.0,"{'architectureType': 'Cape Cod', 'exteriorType': 'Aluminum / Vinyl Siding', 'floorCount': 1, 'heating': True, 'heatingType': 'Coal', 'roofType': 'Asphalt', 'roomCount': 5, 'unitCount': 1}",1.0,6534.0
+19,2.0,1412.0,"{'architectureType': 'Ranch', 'exteriorType': 'Brick', 'floorCount': 2, 'pool': True, 'unitCount': 1}",2.0,1412.0
+20,3.0,1234.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Aluminum / Vinyl Siding', 'fireplace': True, 'fireplaceType': 'Prefab', 'floorCount': 1, 'garage': True, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Composition Shingle', 'unitCount': 1}",2.0,8094.0
+21,2.0,1235.0,"{'architectureType': 'Condo / Apartment', 'unitCount': 1}",2.0,1483.0
+22,4.0,2831.0,"{'cooling': True, 'coolingType': 'Central', 'floorCount': 2, 'foundationType': 'Slab / Mat / Raft', 'heating': True, 'heatingType': 'Central', 'roofType': 'Composition Shingle', 'unitCount': 1}",3.5,4400.0
+23,3.0,1904.0,"{'cooling': True, 'coolingType': 'Commercial', 'exteriorType': 'Stucco', 'floorCount': 1, 'foundationType': 'Slab', 'garage': True, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Metal', 'roomCount': 6, 'unitCount': 1}",2.0,10019.0
+24,0.0,1140.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Brick Veneer', 'fireplace': True, 'fireplaceType': 'Single', 'floorCount': 1, 'foundationType': 'Slab / Mat / Raft', 'garage': True, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Central', 'roofType': 'Asphalt'}",2.0,11326.0
+25,0.0,1982.0,"{'architectureType': 'Colonial', 'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Aluminum / Vinyl Siding', 'floorCount': 2, 'foundationType': 'OTHER', 'garage': True, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Central', 'roofType': 'Shingle', 'roomCount': 11, 'unitCount': 2}",2.5,6120.0
+26,3.0,1978.0,"{'architectureType': 'Conventional', 'cooling': True, 'coolingType': 'Commercial', 'exteriorType': 'Shingle', 'fireplace': True, 'floorCount': 1, 'garage': True, 'garageSpaces': 1, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Forced Air', 'roomCount': 10, 'unitCount': 1}",2.0,6970.0
+27,2.0,716.0,"{'architectureType': 'Ranch', 'exteriorType': 'OTHER', 'floorCount': 1, 'heating': True, 'heatingType': 'Forced Air', 'unitCount': 1}",1.0,5227.0
+28,4.0,2919.0,unknown,3.5,20038.0
+29,0.0,1443.0,"{'architectureType': 'Cape Cod', 'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Aluminum / Vinyl Siding', 'floorCount': 2, 'foundationType': 'OTHER', 'heating': True, 'heatingType': 'Central', 'roofType': 'Shingle', 'roomCount': 6, 'unitCount': 1}",2.0,6000.0
+30,5.0,3654.0,unknown,3.5,21741.0
+31,1.0,0.0,unknown,1.0,0.0
+32,3.0,2094.0,"{'architectureType': 'Conventional', 'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Brick', 'fireplace': True, 'floorCount': 1, 'foundationType': 'Slab / Mat / Raft', 'garage': True, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Central', 'roofType': 'Composition Shingle', 'unitCount': 1}",2.0,7680.0
+33,2.0,1180.0,"{'architectureType': 'Single Story', 'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Stucco', 'fireplace': True, 'floorCount': 1, 'garage': True, 'garageSpaces': 1, 'garageType': 'Carport', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Composition Shingle', 'roomCount': 4, 'unitCount': 1}",1.5,8276.0
+34,4.0,3044.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Aluminum / Vinyl Siding', 'floorCount': 2, 'garage': True, 'garageSpaces': 2, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Composition Shingle', 'unitCount': 1}",3.0,12676.0
+35,3.0,2591.0,unknown,2.5,0.0
+36,3.0,1251.0,"{'cooling': True, 'coolingType': 'Commercial', 'exteriorType': 'Brick Veneer', 'fireplace': True, 'fireplaceType': 'Single', 'floorCount': 1, 'foundationType': 'Brick', 'garage': True, 'garageType': 'Carport', 'heating': True, 'heatingType': 'Heat Pump', 'roofType': 'Asphalt', 'roomCount': 4, 'unitCount': 1}",1.0,517928.0
+37,2.0,1322.0,"{'cooling': True, 'coolingType': 'Commercial', 'exteriorType': 'Aluminum / Vinyl Siding', 'fireplace': True, 'floorCount': 2, 'garage': True, 'garageType': 'Carport', 'heating': True, 'roofType': 'Composition Shingle', 'roomCount': 4, 'unitCount': 1}",3.0,5864.0
+38,0.0,1512.0,{'architectureType': 'Mobile Home'},0.0,0.0
+39,3.0,1107.0,"{'exteriorType': 'Stucco', 'floorCount': 1, 'unitCount': 1}",2.0,7132.0
+40,0.0,1704.0,"{'cooling': True, 'coolingType': 'Commercial', 'exteriorType': 'Stone', 'fireplace': True, 'floorCount': 2, 'foundationType': 'Footing', 'garage': True, 'garageSpaces': 2, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Central', 'pool': True, 'roofType': 'Composition Shingle', 'unitCount': 1}",3.0,19600.0
+41,0.0,0.0,unknown,0.0,10019.0
+42,0.0,0.0,unknown,0.0,0.0
+43,3.0,1600.0,unknown,1.0,0.0
+44,6.0,2352.0,"{'architectureType': 'Duplex', 'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Stucco', 'floorCount': 1, 'garage': True, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Asphalt'}",4.0,15943.0
+45,0.0,1947.0,"{'cooling': True, 'coolingType': 'Commercial', 'exteriorType': 'Brick', 'floorCount': 1, 'foundationType': 'Footing', 'heating': True, 'heatingType': 'Central', 'roofType': 'Composition Shingle', 'unitCount': 1}",2.0,17500.0
+46,0.0,997.0,"{'architectureType': 'Cape Cod', 'exteriorType': 'Aluminum / Vinyl Siding', 'floorCount': 1, 'garage': True, 'garageType': 'Detached', 'unitCount': 1}",0.0,5500.0
+47,3.0,1050.0,unknown,2.0,0.0
+48,3.0,1134.0,"{'architectureType': 'Conventional', 'floorCount': 1, 'garage': True, 'garageSpaces': 1, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Floor / Wall', 'roomCount': 7, 'unitCount': 1}",2.0,6433.0
+49,2.0,1455.0,"{'architectureType': 'Mobile Home', 'cooling': True, 'coolingType': 'Commercial', 'exteriorType': 'Aluminum / Vinyl Siding', 'floorCount': 1, 'foundationType': 'Pier / Post & Beam', 'garage': True, 'garageType': 'Carport', 'heating': True, 'roofType': 'Asphalt', 'roomCount': 4, 'unitCount': 1}",2.0,4943.0
+50,3.0,1200.0,"{'architectureType': 'Split Level', 'exteriorType': 'Wood Siding', 'fireplace': True, 'floorCount': 3, 'foundationType': 'Crawl / Raised', 'garage': True, 'garageSpaces': 2, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Composition Shingle', 'roomCount': 5, 'unitCount': 1}",3.0,9583.0
+51,0.0,1120.0,"{'architectureType': 'Conventional', 'cooling': True, 'coolingType': 'Commercial', 'exteriorType': 'Aluminum / Vinyl Siding', 'fireplace': True, 'floorCount': 1, 'garage': True, 'garageSpaces': 2, 'garageType': 'Attached Garage', 'heating': True, 'heatingType': 'Heat Pump', 'roofType': 'Composition Shingle', 'unitCount': 1}",1.0,24072.0
+52,3.0,1382.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Brick Veneer', 'fireplace': True, 'floorCount': 1, 'foundationType': 'Slab / Mat / Raft', 'garage': True, 'garageSpaces': 1, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Central', 'roofType': 'Composition Shingle', 'unitCount': 1}",2.0,5480.0
+53,4.0,1990.0,"{'architectureType': 'Bi-Level', 'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Aluminum / Vinyl Siding', 'fireplace': True, 'floorCount': 2, 'garage': True, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Central', 'roofType': 'Composition Shingle', 'roomCount': 3, 'unitCount': 1}",2.0,10237.0
+54,0.0,1595.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Brick Veneer', 'garage': True, 'garageType': 'Detached', 'heating': True, 'heatingType': 'Central'}",1.5,32670.0
+55,3.0,1174.0,"{'architectureType': 'Ranch', 'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Stone', 'floorCount': 1, 'garage': True, 'garageType': 'Carport', 'heating': True, 'heatingType': 'Forced Air', 'roomCount': 5, 'unitCount': 1}",1.0,15812.0
+56,0.0,1804.0,"{'floorCount': 1, 'pool': True, 'unitCount': 1, 'poolType': 'Pool and Hot Tub / Spa'}",0.0,10019.0
+57,2.0,650.0,unknown,1.5,436.0
+58,3.0,1991.0,"{'architectureType': 'Traditional', 'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Brick Veneer', 'fireplace': True, 'floorCount': 1, 'foundationType': 'Slab / Mat / Raft', 'garage': True, 'garageSpaces': 1, 'garageType': 'Detached', 'heating': True, 'heatingType': 'Central', 'roomCount': 6, 'unitCount': 1}",2.0,13138.0
+59,3.0,1173.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Concrete Block', 'floorCount': 1, 'garage': True, 'garageType': 'Carport', 'heating': True, 'heatingType': 'Forced Air', 'unitCount': 1}",2.0,9583.0
+60,0.0,1512.0,"{'architectureType': 'Duplex', 'floorCount': 2, 'garage': True, 'garageType': 'Garage', 'unitCount': 2}",0.0,2000.0
+61,3.0,1144.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Concrete Block', 'floorCount': 1, 'garage': True, 'garageType': 'Carport', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Composition Shingle', 'unitCount': 1}",2.0,7712.0
+62,0.0,0.0,unknown,0.0,418612.0
+63,3.0,2412.0,"{'cooling': True, 'coolingType': 'Commercial', 'exteriorType': 'Brick', 'fireplace': True, 'fireplaceType': 'Prefab', 'floorCount': 2, 'foundationType': 'Slab / Mat / Raft', 'garage': True, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Shingle', 'roomCount': 7}",2.5,0.0
+64,2.0,744.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Wood', 'floorCount': 1, 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Composition Shingle', 'unitCount': 1}",1.0,4192.0
+65,0.0,1406.0,"{'architectureType': 'Ranch', 'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Brick Veneer', 'floorCount': 1, 'foundationType': 'Slab / Mat / Raft', 'garage': True, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Central', 'roofType': 'Composition Shingle'}",2.0,7754.0
+66,3.0,4866.0,"{'cooling': True, 'coolingType': 'Central', 'fireplace': True, 'floorCount': 2, 'garage': True, 'garageSpaces': 4, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Central', 'roofType': 'Asphalt', 'roomCount': 5}",5.0,12632.0
+67,0.0,0.0,unknown,0.0,2504264.0
+68,2.0,1160.0,unknown,1.5,560.0
+69,4.0,2407.0,"{'cooling': True, 'coolingType': 'Central', 'fireplace': True, 'fireplaceType': 'Single', 'floorCount': 2, 'garage': True, 'garageSpaces': 2, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Central', 'unitCount': 1}",2.0,5787.0
+70,3.0,1104.0,unknown,2.0,12000.0
+71,0.0,1552.0,"{'cooling': True, 'coolingType': 'Commercial', 'exteriorType': 'Aluminum / Vinyl Siding', 'fireplace': True, 'floorCount': 2, 'foundationType': 'Block', 'garage': True, 'garageType': 'Carport', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Shingle', 'roomCount': 7}",3.5,56192.0
+72,1.0,841.0,"{'exteriorType': 'Stucco', 'floorCount': 1, 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Roll Tar & Gravel', 'roomCount': 4, 'unitCount': 1}",1.0,6970.0
+73,3.0,1344.0,{'architectureType': 'Mobile Home'},2.0,0.0
+74,3.0,1726.0,"{'garage': True, 'garageType': 'Garage'}",2.0,14985.0
+75,0.0,1100.0,"{'floorCount': 1, 'roomCount': 5, 'unitCount': 1}",1.0,2500.0
+76,4.0,1711.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Brick Veneer', 'fireplace': True, 'fireplaceType': 'Prefab', 'floorCount': 1, 'garage': True, 'garageSpaces': 2, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Composition Shingle', 'unitCount': 1}",2.0,17047.0
+77,3.0,1364.0,"{'architectureType': 'Split Level', 'cooling': True, 'coolingType': 'Commercial', 'exteriorType': 'Aluminum / Vinyl Siding', 'fireplace': True, 'foundationType': 'Raised', 'garage': True, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Forced Air'}",1.5,20473.0
+78,0.0,1970.0,{},0.0,4356.0
+79,3.0,2474.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Wood', 'floorCount': 2, 'garage': True, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Composition Shingle'}",3.0,5000.0
+80,0.0,788.0,"{'architectureType': 'Condo / Apartment', 'exteriorType': 'Wood', 'floorCount': 8, 'garage': True, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Asphalt', 'roomCount': 4, 'unitCount': 1}",1.0,788.0
+81,3.0,1320.0,unknown,2.0,4760.0
+82,3.0,1595.0,{},1.0,7125.0
+83,3.0,2800.0,unknown,2.0,0.0
+84,2.0,905.0,unknown,1.0,0.0
+85,3.0,1028.0,unknown,1.0,288803.0
+86,3.0,1224.0,"{'architectureType': 'Ranch', 'cooling': True, 'coolingType': 'Commercial', 'exteriorType': 'OTHER', 'floorCount': 1, 'foundationType': 'Raised', 'garage': True, 'garageType': 'Detached', 'heating': True, 'heatingType': 'Forced Air'}",2.0,8712.0
+87,3.0,1333.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Stucco', 'floorCount': 2, 'garage': True, 'garageSpaces': 1, 'garageType': 'Built-in', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Tile', 'roomCount': 5, 'unitCount': 1}",2.5,1742.0
+88,3.0,1434.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Stucco', 'fireplace': True, 'floorCount': 1, 'garage': True, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Tile', 'roomCount': 5, 'unitCount': 1}",2.0,4356.0
+89,3.0,1852.0,"{'cooling': True, 'coolingType': 'Central', 'floorCount': 1, 'garage': True, 'garageSpaces': 2, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Central', 'unitCount': 1}",2.0,6098.0
+90,0.0,1536.0,unknown,1.0,0.0
+91,4.0,1986.0,"{'architectureType': 'Contemporary', 'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Combination', 'fireplace': True, 'floorCount': 1, 'foundationType': 'Slab / Mat / Raft', 'garage': True, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Asphalt', 'roomCount': 7, 'unitCount': 1}",2.0,9583.0
+92,2.0,960.0,"{'architectureType': 'Ranch', 'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Aluminum / Vinyl Siding', 'floorCount': 1, 'garage': True, 'garageSpaces': 1, 'garageType': 'Detached', 'heating': True, 'heatingType': 'Central', 'roomCount': 5, 'unitCount': 1}",1.0,5200.0
+93,0.0,1339.0,"{'exteriorType': 'Wood', 'floorCount': 1, 'unitCount': 1}",0.0,25265.0
+94,2.0,1381.0,"{'architectureType': 'Condo / Apartment', 'unitCount': 1}",2.0,43560.0
+95,4.0,1362.0,"{'architectureType': 'Conventional', 'floorCount': 1, 'garage': True, 'garageSpaces': 1, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Central', 'roomCount': 8, 'unitCount': 1}",2.0,7501.0
+96,3.0,2865.0,"{'architectureType': 'Conventional', 'cooling': True, 'coolingType': 'Commercial', 'exteriorType': 'Brick / Stone', 'fireplace': True, 'floorCount': 1, 'foundationType': 'Masonry', 'garage': True, 'garageType': 'Attached', 'heating': True, 'roofType': 'Shingle', 'roomCount': 8, 'unitCount': 1}",2.5,42689.0
+97,1.0,416.0,unknown,1.0,0.0
+98,0.0,1160.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Wood', 'floorCount': 1, 'foundationType': 'Slab / Mat / Raft', 'garage': True, 'garageType': 'Carport', 'heating': True, 'heatingType': 'Central', 'roofType': 'Asphalt', 'unitCount': 1}",2.0,16200.0
+99,4.0,1640.0,"{'cooling': True, 'coolingType': 'Central', 'fireplace': True, 'fireplaceType': 'Single', 'floorCount': 1, 'garage': True, 'garageSpaces': 2, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Central', 'unitCount': 1}",2.0,5200.0
+100,3.0,2080.0,"{'cooling': True, 'exteriorType': 'Stucco', 'floorCount': 1, 'foundationType': 'OTHER', 'garage': True, 'garageSpaces': 2, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Package', 'roofType': 'Composition Shingle', 'roomCount': 4, 'unitCount': 1, 'coolingType': 'Commercial'}",2.0,6369.0
+101,2.0,1086.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Brick Veneer', 'floorCount': 1, 'heating': True, 'heatingType': 'Central', 'unitCount': 1}",2.0,0.0
+102,3.0,1490.0,{},2.0,9181.0
+103,4.0,2374.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Stucco', 'floorCount': 1, 'foundationType': 'Slab / Mat / Raft', 'garage': True, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Central', 'pool': True, 'roofType': 'Asphalt', 'unitCount': 1}",2.0,6534.0
+104,4.0,2646.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'OTHER', 'fireplace': True, 'fireplaceType': 'Gas Log', 'floorCount': 2, 'foundationType': 'OTHER', 'garage': True, 'garageType': 'Built-in', 'heating': True, 'heatingType': 'Central', 'roofType': 'Composition Shingle', 'roomCount': 8, 'unitCount': 1}",2.0,12500.0
+105,3.0,1576.0,unknown,2.0,8869.0
+106,3.0,1151.0,"{'architectureType': 'Ranch', 'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Brick Veneer', 'floorCount': 1, 'foundationType': 'Slab / Mat / Raft', 'garage': True, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Central', 'roomCount': 6, 'unitCount': 1}",1.5,5401.0
+107,3.0,1404.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Aluminum / Vinyl Siding', 'floorCount': 2, 'foundationType': 'OTHER', 'garage': True, 'garageSpaces': 2, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Central', 'roofType': 'Composition Shingle', 'roomCount': 6}",1.5,13068.0
+108,0.0,500.0,{},1.0,0.0
+109,4.0,2695.0,"{'architectureType': 'Contemporary', 'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Combination', 'fireplace': True, 'floorCount': 2, 'foundationType': 'Slab / Mat / Raft', 'garage': True, 'garageSpaces': 2, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Asphalt', 'roomCount': 8}",3.0,5750.0
+110,3.0,1200.0,unknown,1.5,0.0
+111,0.0,2290.0,"{'cooling': True, 'coolingType': 'Refrigeration', 'exteriorType': 'Stucco', 'floorCount': 1, 'garage': True, 'garageSpaces': 2, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Forced Air', 'pool': True, 'roofType': 'Built-up (Layered Asphalt)', 'roomCount': 7, 'unitCount': 1}",2.0,10346.0
+112,2.0,960.0,unknown,1.0,0.0
+113,0.0,1159.0,"{'architectureType': 'Ranch / Rambler', 'exteriorType': 'Aluminum / Vinyl Siding', 'floorCount': 1, 'foundationType': 'Crawl / Raised', 'garage': True, 'garageType': 'Attached Garage', 'heating': True, 'roofType': 'Composition Shingle', 'unitCount': 1}",1.0,8102.0
+114,5.0,3549.0,"{'cooling': True, 'coolingType': 'Central', 'floorCount': 1, 'garage': True, 'garageSpaces': 2, 'garageType': 'Garage', 'roomCount': 10, 'unitCount': 1}",2.0,11805.0
+115,0.0,1882.0,"{'exteriorType': 'Aluminum Siding', 'fireplace': True, 'floorCount': 1, 'foundationType': 'Raised', 'heating': True, 'roofType': 'Asphalt', 'roomCount': 7, 'unitCount': 1}",0.0,12109.0
+116,2.0,864.0,"{'fireplace': True, 'floorCount': 1, 'foundationType': 'Block', 'garage': True, 'garageType': 'Attached', 'heating': True, 'roofType': 'Asphalt', 'roomCount': 8}",2.0,9690.0
+117,3.0,1827.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Wood', 'fireplace': True, 'floorCount': 1, 'foundationType': 'Raised', 'garage': True, 'garageType': 'Garage', 'unitCount': 1}",2.0,10890.0
+118,3.0,1674.0,unknown,2.0,9148.0
+119,3.0,1122.0,{},1.0,2500.0
+120,3.0,1407.0,"{'floorCount': 1, 'garage': True, 'garageType': 'Garage', 'unitCount': 1, 'cooling': True, 'coolingType': 'Commercial', 'exteriorType': 'Stucco', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Composition Shingle'}",2.0,2239.0
+121,3.0,1611.0,"{'cooling': True, 'coolingType': 'Refrigeration', 'exteriorType': 'Stucco', 'floorCount': 1, 'garage': True, 'garageSpaces': 2, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Other', 'roomCount': 7, 'unitCount': 1}",2.0,5490.0
+122,4.0,1875.0,"{'fireplace': True, 'floorCount': 1, 'garage': True, 'garageSpaces': 2, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Central', 'roofType': 'Wood Shingle', 'roomCount': 7, 'unitCount': 1}",3.0,10750.0
+123,0.0,1760.0,"{'garage': True, 'garageSpaces': 1, 'garageType': 'Garage', 'unitCount': 1}",2.0,17424.0
+124,2.0,1304.0,"{'architectureType': 'Condo / Apartment', 'cooling': True, 'coolingType': 'Commercial', 'exteriorType': 'Stucco', 'floorCount': 1, 'garage': True, 'garageType': 'Detached', 'heating': True, 'heatingType': 'Central', 'roofType': 'Tile', 'unitCount': 1}",2.0,2614.0
+125,3.0,1200.0,"{'exteriorType': 'OTHER', 'floorCount': 2, 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Composition Shingle', 'unitCount': 1}",1.5,3459.0
+126,5.0,2614.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Aluminum / Vinyl Siding', 'fireplace': True, 'fireplaceType': 'Prefab', 'floorCount': 2, 'garage': True, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Central', 'roofType': 'Asphalt'}",3.0,10019.0
+127,0.0,1288.0,"{'architectureType': 'Mobile Home', 'cooling': True, 'coolingType': 'Central', 'fireplace': True, 'floorCount': 1, 'foundationType': 'Pier / Post & Beam', 'garage': True, 'garageType': 'Carport', 'heating': True, 'heatingType': 'Forced Air', 'unitCount': 1}",0.0,14985.0
+128,3.0,1508.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Aluminum / Vinyl Siding', 'fireplace': True, 'fireplaceType': 'Prefab', 'floorCount': 2, 'heating': True, 'heatingType': 'Forced Air', 'roomCount': 6, 'unitCount': 1}",2.5,0.0
+129,2.0,1100.0,{},2.0,0.0
+130,2.0,1102.0,"{'architectureType': 'Split Level', 'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Frame / Aluminum', 'fireplace': True, 'garage': True, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Forced Air', 'roomCount': 5, 'unitCount': 1}",2.0,503118.0
+131,3.0,1428.0,"{'cooling': True, 'coolingType': 'Commercial', 'fireplace': True, 'floorCount': 2, 'foundationType': 'Slab / Mat / Raft', 'garage': True, 'garageType': 'Garage', 'heating': True, 'roomCount': 6, 'unitCount': 1}",2.5,1089.0
+132,2.0,1179.0,unknown,2.0,0.0
+133,4.0,1930.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Brick Veneer', 'fireplace': True, 'floorCount': 1, 'foundationType': 'Slab / Mat / Raft', 'garage': True, 'garageSpaces': 2, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Central', 'roofType': 'Composition Shingle', 'unitCount': 1}",2.0,4541.0
+134,4.0,1466.0,"{'floorCount': 1, 'garage': True, 'garageType': 'Undefined Type', 'cooling': True, 'coolingType': 'Central', 'heatingType': 'Warm Air', 'architectureType': 'Split Level', 'garageSpaces': 2, 'fireplace': True, 'fireplaceType': 'Masonry', 'roomCount': 7, 'exteriorType': 'Frame'}",3.0,10354.0
+135,3.0,995.0,"{'architectureType': 'Traditional', 'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Brick Veneer', 'fireplace': True, 'floorCount': 1, 'foundationType': 'Slab / Mat / Raft', 'garage': True, 'garageSpaces': 1, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Central', 'roofType': 'Composition Shingle', 'roomCount': 5, 'unitCount': 1}",2.0,43560.0
+136,0.0,0.0,{},0.0,6743.0
+137,2.0,2112.0,"{'architectureType': 'Raised Ranch', 'exteriorType': 'Composition', 'floorCount': 1, 'garage': True, 'garageSpaces': 2, 'garageType': 'Underground / Basement', 'heating': True, 'heatingType': 'Forced Air', 'unitCount': 1}",1.0,56628.0
+138,0.0,1144.0,"{'floorCount': 1, 'architectureType': 'Mobile Home'}",0.0,0.0
+139,2.0,1159.0,"{'architectureType': 'Conventional', 'floorCount': 1, 'garage': True, 'garageSpaces': 1, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Floor / Wall', 'roomCount': 7, 'unitCount': 1}",1.0,3150.0
+140,3.0,1598.0,"{'architectureType': 'Cape Cod', 'cooling': True, 'coolingType': 'Commercial', 'exteriorType': 'Brick / Stone', 'fireplace': True, 'floorCount': 1, 'garage': True, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Electric', 'roomCount': 5, 'unitCount': 1}",2.0,23000.0
+141,2.0,950.0,"{'fireplace': True, 'floorCount': 1, 'heating': True, 'heatingType': 'Forced Air', 'unitCount': 1}",1.0,8400.0
+142,2.0,777.0,"{'architectureType': 'Traditional', 'exteriorType': 'Brick Veneer', 'floorCount': 1, 'foundationType': 'Slab / Mat / Raft', 'heating': True, 'heatingType': 'Central', 'roomCount': 4, 'unitCount': 3}",1.0,5001.0
+143,2.0,1094.0,"{'architectureType': 'Condo / Apartment', 'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Stucco', 'floorCount': 2, 'heating': True, 'heatingType': 'Central', 'roofType': 'Composition Shingle', 'unitCount': 1}",2.5,615.0
+144,4.0,2114.0,{'floorCount': 2},3.5,8712.0
+145,0.0,5938.0,"{'architectureType': 'Conventional', 'cooling': True, 'coolingType': 'Commercial', 'exteriorType': 'Siding', 'fireplace': True, 'fireplaceType': '2 Story Brick Chimney', 'floorCount': 2, 'garage': True, 'garageType': 'Built-in', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Composition Shingle', 'unitCount': 1}",4.5,112820.0
+146,2.0,1025.0,"{'architectureType': 'Ranch', 'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Brick', 'floorCount': 1, 'garage': True, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Forced Air', 'roomCount': 5, 'unitCount': 1, 'foundationType': 'Raised'}",1.5,10450.0
+147,3.0,966.0,"{'cooling': True, 'coolingType': 'Commercial', 'exteriorType': 'Aluminum Siding', 'floorCount': 1, 'foundationType': 'Wood', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Shingle', 'roomCount': 5, 'unitCount': 1}",1.0,7500.0
+148,3.0,1560.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Aluminum / Vinyl Siding', 'fireplace': True, 'fireplaceType': 'Prefab', 'floorCount': 2, 'foundationType': 'Raised', 'garage': True, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Forced Air', 'unitCount': 1, 'garageSpaces': 2}",2.5,3764.0
+149,4.0,2396.0,"{'cooling': True, 'coolingType': 'Commercial', 'fireplace': True, 'floorCount': 2, 'garage': True, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Forced Air', 'unitCount': 1}",2.5,20038.0
+150,0.0,1785.0,"{'floorCount': 2, 'unitCount': 1}",0.0,1855.0
+151,3.0,2743.0,"{'architectureType': 'Contemporary', 'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Stucco', 'fireplace': True, 'floorCount': 1, 'foundationType': 'Slab / Mat / Raft', 'garage': True, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Central', 'roofType': 'Asphalt', 'roomCount': 7}",3.5,23958.0
+152,1.0,700.0,{},1.0,0.0
+153,4.0,3100.0,"{'cooling': True, 'exteriorType': 'Wood', 'floorCount': 1, 'heating': True, 'heatingType': 'Hot Water / Steam', 'roofType': 'Asphalt', 'roomCount': 9, 'unitCount': 2}",2.0,117612.0
+154,3.0,1635.0,"{'architectureType': 'Ranch', 'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Brick Veneer', 'fireplace': True, 'floorCount': 1, 'foundationType': 'Raised', 'garage': True, 'garageSpaces': 1, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Central', 'roofType': 'Composition Shingle', 'roomCount': 7, 'unitCount': 1}",2.0,18818.0
+155,3.0,1408.0,"{'architectureType': 'Townhouse', 'cooling': True, 'coolingType': 'Commercial', 'exteriorType': 'Aluminum / Vinyl Siding', 'fireplace': True, 'floorCount': 2, 'heating': True, 'heatingType': 'Forced Air', 'roomCount': 6, 'unitCount': 1}",3.5,1760.0
+156,0.0,1571.0,"{'fireplace': True, 'floorCount': 2, 'foundationType': 'Pier / Post & Beam', 'garage': True, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Composition Shingle', 'unitCount': 1}",0.0,9670.0
+157,4.0,2224.0,"{'architectureType': 'Traditional', 'exteriorType': 'Aluminum / Vinyl Siding', 'fireplace': True, 'floorCount': 2, 'garage': True, 'garageSpaces': 4, 'garageType': 'Detached Garage', 'heating': True, 'heatingType': 'Forced Air', 'unitCount': 1}",1.5,6534.0
+158,2.0,1433.0,unknown,2.0,82328.0
+159,2.0,1843.0,"{'cooling': True, 'coolingType': 'Commercial', 'exteriorType': 'Aluminum / Vinyl Siding', 'fireplace': True, 'floorCount': 2, 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Asphalt', 'roomCount': 6}",3.5,0.0
+160,3.0,1240.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Brick', 'floorCount': 1, 'foundationType': 'Block', 'garage': True, 'garageType': 'Carport', 'heating': True, 'heatingType': 'Floor / Wall', 'roofType': 'Composition Shingle'}",2.0,21780.0
+161,4.0,3784.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Brick Veneer', 'fireplace': True, 'floorCount': 2, 'foundationType': 'Slab / Mat / Raft', 'garage': True, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Central', 'roofType': 'Composition Shingle'}",3.0,10043.0
+162,4.0,1531.0,"{'cooling': True, 'coolingType': 'Central', 'fireplace': True, 'floorCount': 2, 'foundationType': 'Raised', 'garage': True, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Central'}",4.0,8712.0
+163,4.0,2465.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Aluminum / Vinyl Siding', 'floorCount': 2, 'garage': True, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Forced Air'}",4.0,7492.0
+164,1.0,610.0,unknown,1.0,0.0
+165,3.0,1590.0,"{'cooling': True, 'coolingType': 'Commercial', 'floorCount': 2, 'foundationType': 'Slab / Mat / Raft', 'garage': True, 'garageSpaces': 2, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Central', 'roofType': 'Composition Shingle'}",2.0,4400.0
+166,3.0,864.0,"{'architectureType': 'Bi-Level', 'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Other', 'fireplace': True, 'floorCount': 1, 'foundationType': 'Block', 'garage': True, 'garageSpaces': 2, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Asphalt', 'roomCount': 7, 'unitCount': 1}",1.5,8485.0
+167,4.0,3487.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Brick Veneer', 'fireplace': True, 'fireplaceType': 'Single', 'floorCount': 2, 'foundationType': 'Slab / Mat / Raft', 'garage': True, 'garageType': 'Mixed', 'heating': True, 'heatingType': 'Central', 'roofType': 'Composition Shingle', 'unitCount': 1}",3.0,10283.0
+168,0.0,1080.0,"{'exteriorType': 'Wood', 'fireplace': True, 'floorCount': 1, 'unitCount': 1}",0.0,0.0
+169,2.0,983.0,unknown,1.0,0.0
+170,2.0,1080.0,"{'architectureType': 'Condo / Apartment', 'unitCount': 1}",2.0,0.0
+171,4.0,1519.0,"{'architectureType': 'Split Level', 'cooling': True, 'coolingType': 'Commercial', 'exteriorType': 'OTHER', 'fireplace': True, 'floorCount': 2, 'foundationType': 'OTHER', 'garage': True, 'garageType': 'Built-in', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Composition Shingle', 'roomCount': 7, 'unitCount': 1}",3.5,5173.0
+172,0.0,1348.0,"{'floorCount': 1, 'garage': True, 'garageType': 'Garage'}",1.0,8316.0
+173,3.0,964.0,"{'architectureType': 'Ranch', 'exteriorType': 'Aluminum / Vinyl Siding', 'floorCount': 1, 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Asphalt', 'roomCount': 5, 'unitCount': 1}",1.0,5000.0
+174,4.0,2818.0,"{'cooling': True, 'coolingType': 'Central', 'floorCount': 1, 'garage': True, 'garageSpaces': 2, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Central', 'unitCount': 1}",2.0,9997.0
+175,0.0,1676.0,"{'cooling': True, 'coolingType': 'Central', 'fireplace': True, 'fireplaceType': 'Masonry', 'floorCount': 1, 'garage': True, 'garageSpaces': 1, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Central', 'roofType': 'Asphalt', 'unitCount': 1}",1.0,23566.0
+176,3.0,1204.0,"{'architectureType': 'Modular', 'cooling': True, 'coolingType': 'Commercial', 'foundationType': 'Pier / Post & Beam', 'heating': True, 'roofType': 'Composition Shingle'}",2.0,26572.0
+177,2.0,960.0,"{'architectureType': 'Modular', 'exteriorType': 'Aluminum / Vinyl Siding', 'floorCount': 1, 'foundationType': 'Slab / Mat / Raft', 'garage': True, 'garageSpaces': 1, 'garageType': 'Carport', 'heating': True, 'heatingType': 'Forced Air'}",2.0,0.0
+178,4.0,1722.0,"{'cooling': True, 'coolingType': 'Commercial', 'floorCount': 1, 'foundationType': 'Slab / Mat / Raft', 'garage': True, 'garageSpaces': 2, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Central', 'roofType': 'Composition Shingle', 'unitCount': 1}",2.0,8464.0
+179,0.0,1568.0,{'architectureType': 'Mobile Home'},0.0,0.0
+180,2.0,1457.0,{},2.0,0.0
+181,0.0,1743.0,"{'cooling': True, 'coolingType': 'Evaporative', 'exteriorType': 'Wood', 'floorCount': 1, 'garage': True, 'garageSpaces': 2, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Asphalt', 'roomCount': 9, 'unitCount': 1}",2.0,7843.0
+182,4.0,1343.0,"{'architectureType': 'Conventional', 'cooling': True, 'coolingType': 'Commercial', 'exteriorType': 'Brick', 'fireplace': True, 'floorCount': 1, 'garage': True, 'garageType': 'Attached', 'heating': True, 'roofType': 'Wood Shingle', 'unitCount': 1}",2.0,11543.0
+183,3.0,1345.0,"{'garage': True, 'garageSpaces': 2, 'garageType': 'Garage', 'unitCount': 1}",2.0,8114.0
+184,2.0,1047.0,"{'floorCount': 3, 'garage': True, 'garageSpaces': 1, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Central', 'roomCount': 4, 'unitCount': 6, 'architectureType': 'Condo / Apartment', 'cooling': True, 'coolingType': 'Chilled Water'}",2.0,350.0
+185,3.0,2304.0,"{'architectureType': 'Traditional', 'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Brick', 'fireplace': True, 'fireplaceType': 'Masonry', 'floorCount': 2, 'garage': True, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Central', 'unitCount': 1}",2.5,8712.0
+186,2.0,1470.0,unknown,1.0,2614.0
+187,2.0,1248.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Wood', 'floorCount': 2, 'garage': True, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Central', 'unitCount': 2}",1.5,4611.0
+188,4.0,1543.0,"{'cooling': True, 'coolingType': 'Central', 'floorCount': 3, 'garage': True, 'garageSpaces': 2, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Central', 'unitCount': 1, 'architectureType': 'Split Level'}",1.0,13939.0
+189,4.0,3256.0,"{'cooling': True, 'coolingType': 'Central', 'garage': True, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Central', 'roofType': 'Composition Shingle', 'roomCount': 12, 'unitCount': 1}",1.5,10803.0
+190,0.0,1324.0,"{'exteriorType': 'Wood', 'floorCount': 1, 'unitCount': 1}",0.0,5001.0
+191,0.0,1344.0,"{'architectureType': 'Mobile Home', 'floorCount': 1, 'garage': True, 'garageType': 'Carport'}",0.0,30492.0
+192,3.0,1596.0,"{'architectureType': 'Other', 'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Aluminum / Vinyl Siding', 'floorCount': 1, 'heating': True, 'heatingType': 'Hot Water', 'roomCount': 5, 'unitCount': 1}",2.0,436.0
+193,3.0,1260.0,"{'architectureType': 'Cape Cod', 'exteriorType': 'Wood', 'floorCount': 2, 'garage': True, 'garageType': 'Detached', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Composition Shingle', 'unitCount': 1}",2.0,6186.0
+194,3.0,1711.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Aluminum / Vinyl Siding', 'floorCount': 1, 'garage': True, 'garageSpaces': 2, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Composition Shingle', 'unitCount': 1}",2.0,5806.0
+195,3.0,1424.0,"{'cooling': True, 'coolingType': 'Commercial', 'exteriorType': 'Brick Veneer', 'floorCount': 1, 'garage': True, 'garageSpaces': 1, 'garageType': 'Carport', 'heating': True, 'heatingType': 'Furnace', 'roofType': 'Composition Shingle', 'roomCount': 6}",1.5,5750.0
+196,4.0,2335.0,"{'cooling': True, 'coolingType': 'Central', 'fireplace': True, 'floorCount': 2, 'foundationType': 'Slab / Mat / Raft', 'garage': True, 'garageSpaces': 3, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Central', 'roofType': 'Wood Shingle', 'roomCount': 8, 'unitCount': 1}",2.5,6669.0
+197,3.0,1259.0,"{'exteriorType': 'Brick Veneer', 'fireplace': True, 'floorCount': 1, 'foundationType': 'Pier / Post & Beam', 'garage': True, 'garageType': 'Garage', 'roofType': 'Shingle', 'roomCount': 6, 'unitCount': 1}",1.0,0.0
+198,0.0,2035.0,"{'cooling': True, 'coolingType': 'Commercial', 'exteriorType': 'Stucco', 'floorCount': 1, 'garage': True, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Heat Pump', 'pool': True, 'poolType': 'Pool and Hot Tub / Spa', 'roofType': 'Tile'}",2.5,12632.0
+199,3.0,1329.0,"{'architectureType': 'Contemporary', 'fireplace': True, 'garage': True, 'garageSpaces': 2, 'garageType': 'Garage', 'roomCount': 6, 'unitCount': 1}",2.0,7500.0
+200,4.0,2724.0,"{'cooling': True, 'coolingType': 'Commercial', 'exteriorType': 'Brick', 'fireplace': True, 'fireplaceType': 'Single', 'floorCount': 1, 'foundationType': 'Wood', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Shingle', 'roomCount': 7, 'unitCount': 1}",3.0,16300.0
+201,3.0,1042.0,"{'architectureType': 'Mobile Home', 'cooling': True, 'coolingType': 'Commercial', 'exteriorType': 'Other', 'floorCount': 1, 'foundationType': 'Pier / Post & Beam', 'heating': True, 'heatingType': 'Central', 'roofType': 'Fiberglass', 'unitCount': 1}",2.0,261360.0
+202,3.0,1481.0,"{'garage': True, 'garageSpaces': 2, 'garageType': 'Garage', 'roomCount': 7, 'unitCount': 1}",3.0,4800.0
+203,0.0,0.0,"{'architectureType': 'Mobile Home', 'unitCount': 1}",0.0,13504.0
+204,3.0,1510.0,"{'architectureType': 'Ranch', 'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Aluminum / Vinyl Siding', 'fireplace': True, 'fireplaceType': 'Prefab', 'floorCount': 1, 'foundationType': 'Footing', 'garage': True, 'garageSpaces': 2, 'garageType': 'Detached', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Wood Shingle', 'unitCount': 1}",2.0,15804.0
+205,4.0,1522.0,"{'exteriorType': 'Shingle', 'heating': True, 'heatingType': 'Floor / Wall', 'architectureType': 'Multi-Unit Building'}",2.0,7950.0
+206,0.0,435.0,{'unitCount': 1},0.0,5014.0
+207,12.0,3991.0,{},3.0,0.0
+208,3.0,1315.0,unknown,3.5,0.0
+209,0.0,1555.0,"{'exteriorType': 'Wood', 'floorCount': 1}",0.0,26000.0
+210,0.0,0.0,unknown,0.0,67082.0
+211,3.0,712.0,"{'architectureType': 'Conventional', 'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Aluminum / Vinyl Siding', 'floorCount': 1, 'foundationType': 'Raised', 'garage': True, 'garageSpaces': 1, 'garageType': 'Carport', 'heating': True, 'heatingType': 'Central', 'roofType': 'Asphalt', 'unitCount': 1}",1.0,17860.0
+212,3.0,1713.0,"{'cooling': True, 'coolingType': 'Package', 'exteriorType': 'Stucco', 'floorCount': 2, 'foundationType': 'Footing', 'garage': True, 'garageType': 'Garage', 'heating': True, 'roofType': 'Composition Shingle'}",2.5,2178.0
+213,0.0,1802.0,"{'cooling': True, 'coolingType': 'Refrigeration', 'exteriorType': 'Wood', 'floorCount': 1, 'garage': True, 'garageSpaces': 2, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Concrete Tile', 'roomCount': 7, 'unitCount': 1}",2.0,6000.0
+214,2.0,2160.0,unknown,2.0,0.0
+215,0.0,1972.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Aluminum / Vinyl Siding', 'fireplace': True, 'floorCount': 1, 'foundationType': 'Masonry', 'garage': True, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Central', 'roofType': 'Asphalt', 'unitCount': 1}",2.0,87556.0
+216,3.0,1350.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Concrete Block', 'floorCount': 1, 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Composition Shingle', 'unitCount': 1}",1.0,7688.0
+217,3.0,1680.0,"{'architectureType': 'Mobile Home', 'floorCount': 1}",2.0,28314.0
+218,4.0,4313.0,"{'architectureType': 'Conventional', 'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Wood', 'floorCount': 2, 'heating': True, 'heatingType': 'Forced Air', 'roomCount': 10, 'unitCount': 1}",4.0,108682.0
+219,3.0,1540.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Vinyl', 'floorCount': 1, 'foundationType': 'Slab / Mat / Raft', 'garage': True, 'garageSpaces': 2, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Heat Pump', 'unitCount': 1, 'roomCount': 5}",2.0,0.0
+220,0.0,1379.0,{},0.0,11500.0
+221,3.0,1140.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Vinyl', 'floorCount': 1, 'garage': True, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Composition Shingle', 'unitCount': 1}",2.0,9583.0
+222,3.0,1107.0,"{'cooling': True, 'coolingType': 'Central', 'floorCount': 1, 'roomCount': 8}",2.0,0.0
+223,2.0,936.0,"{'exteriorType': 'OTHER', 'floorCount': 1, 'foundationType': 'Raised', 'heating': True, 'heatingType': 'Forced Air', 'roomCount': 5, 'unitCount': 1}",1.5,5663.0
+224,5.0,5424.0,"{'unitCount': 1, 'fireplace': True, 'floorCount': 2, 'roomCount': 9}",4.0,7245.0
+225,4.0,2944.0,unknown,3.5,217800.0
+226,4.0,1849.0,"{'architectureType': 'Contemporary', 'exteriorType': 'Wood', 'floorCount': 1, 'foundationType': 'Concrete', 'garage': True, 'garageSpaces': 1, 'garageType': 'Carport', 'roofType': 'Built-up', 'roomCount': 7, 'unitCount': 1}",2.0,7250.0
+227,3.0,2659.0,"{'exteriorType': 'OTHER', 'fireplace': True, 'floorCount': 2, 'heating': True, 'heatingType': 'Hot Water', 'roomCount': 8, 'unitCount': 1}",2.0,7000.0
+228,0.0,3181.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Stucco', 'floorCount': 2, 'garage': True, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Composition Shingle', 'viewType': 'Water'}",4.0,9420.0
+229,2.0,924.0,"{'architectureType': 'Ranch', 'cooling': True, 'coolingType': 'Wall', 'exteriorType': 'Other', 'floorCount': 1, 'foundationType': 'Raised', 'garage': True, 'garageSpaces': 1, 'garageType': 'Detached', 'heating': True, 'heatingType': 'Floor / Wall', 'roofType': 'Composition Shingle', 'roomCount': 5, 'unitCount': 1}",1.0,7013.0
+230,3.0,1936.0,"{'cooling': True, 'coolingType': 'Commercial', 'exteriorType': 'Stucco', 'fireplace': True, 'floorCount': 1, 'foundationType': 'Slab / Mat / Raft', 'garage': True, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Composition Shingle', 'unitCount': 1}",2.0,10000.0
+231,5.0,2672.0,"{'architectureType': 'Cape Cod', 'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Aluminum / Vinyl Siding', 'fireplace': True, 'floorCount': 1, 'garage': True, 'garageType': 'Carport', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Metal', 'unitCount': 1}",3.0,162479.0
+232,4.0,2170.0,"{'architectureType': 'Traditional', 'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Brick', 'fireplace': True, 'floorCount': 2, 'foundationType': 'Slab / Mat / Raft', 'garage': True, 'garageSpaces': 2, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Central', 'roomCount': 8, 'unitCount': 1}",2.5,7701.0
+233,5.0,2854.0,unknown,2.0,5000.0
+234,3.0,1574.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Masonry', 'fireplace': True, 'fireplaceType': 'Prefab', 'floorCount': 1, 'garage': True, 'garageSpaces': 2, 'garageType': 'Attached Garage', 'heating': True, 'heatingType': 'Central', 'roomCount': 6}",2.0,8856.0
+235,0.0,930.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Concrete Block', 'floorCount': 1, 'foundationType': 'Block with Runner', 'heating': True, 'roofType': 'Composition Shingle', 'unitCount': 1}",1.0,5497.0
+236,3.0,960.0,"{'architectureType': 'Ranch', 'cooling': True, 'coolingType': 'Commercial', 'exteriorType': 'Aluminum / Vinyl Siding', 'floorCount': 1, 'foundationType': 'OTHER', 'garage': True, 'garageSpaces': 1, 'garageType': 'Carport', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Composition Shingle', 'roomCount': 5, 'unitCount': 1}",1.0,9583.0
+237,3.0,1394.0,"{'cooling': True, 'coolingType': 'Central', 'floorCount': 1, 'garage': True, 'garageSpaces': 2, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Central', 'unitCount': 1}",2.0,6534.0
+238,5.0,2440.0,unknown,3.0,5900.0
+239,6.0,2944.0,"{'exteriorType': 'Asbestos Shingle', 'floorCount': 2, 'heating': True, 'heatingType': 'Radiant', 'roofType': 'Asphalt', 'roomCount': 18, 'unitCount': 2}",2.0,6216.0
+240,3.0,1366.0,"{'architectureType': 'Traditional', 'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Brick Veneer', 'fireplace': True, 'floorCount': 1, 'foundationType': 'Slab / Mat / Raft', 'garage': True, 'garageSpaces': 2, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Central', 'roomCount': 5, 'unitCount': 1}",2.0,7349.0
+241,4.0,2923.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Stucco', 'floorCount': 2, 'garage': True, 'garageSpaces': 1, 'garageType': 'Built-in', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Tile', 'roomCount': 7}",2.5,4238.0
+242,3.0,2095.0,"{'cooling': True, 'coolingType': 'Refrigeration', 'exteriorType': 'Stucco', 'floorCount': 2, 'garage': True, 'garageSpaces': 2, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Forced Air', 'pool': True, 'roofType': 'Other', 'roomCount': 8, 'unitCount': 1}",3.0,10485.0
+243,3.0,1060.0,"{'architectureType': 'Ranch', 'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Brick', 'floorCount': 1, 'foundationType': 'Slab / Mat / Raft', 'garage': True, 'garageSpaces': 2, 'garageType': 'Carport', 'heating': True, 'heatingType': 'Central', 'roofType': 'Roll Composition', 'roomCount': 6, 'unitCount': 1}",1.5,6098.0
+244,4.0,1415.0,unknown,3.0,0.0
+245,3.0,1941.0,unknown,1.5,0.0
+246,3.0,1066.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Brick Veneer', 'floorCount': 1, 'foundationType': 'Slab / Mat / Raft', 'garage': True, 'garageSpaces': 1, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Central', 'roofType': 'Composition Shingle', 'unitCount': 1}",2.0,9375.0
+247,3.0,1675.0,"{'exteriorType': 'Frame Siding', 'floorCount': 1, 'roomCount': 3}",2.0,435600.0
+248,2.0,855.0,unknown,1.0,0.0
+249,4.0,2914.0,"{'cooling': True, 'coolingType': 'Refrigeration', 'exteriorType': 'Stucco', 'floorCount': 1, 'foundationType': 'Slab / Mat / Raft', 'garage': True, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Tile', 'roomCount': 7}",2.0,13234.0
+250,5.0,1556.0,"{'architectureType': 'Ranch', 'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Wood', 'fireplace': True, 'floorCount': 1, 'garage': True, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Central', 'roofType': 'Composition Shingle', 'roomCount': 6, 'unitCount': 1}",3.0,6098.0
+251,4.0,1371.0,"{'architectureType': 'Split Level', 'exteriorType': 'Stucco', 'floorCount': 3, 'garage': True, 'garageType': 'Detached', 'heating': True, 'heatingType': 'Baseboard', 'roomCount': 7, 'unitCount': 1}",1.0,1800.0
+252,4.0,3200.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Brick', 'fireplace': True, 'floorCount': 2, 'foundationType': 'Slab / Mat / Raft', 'garage': True, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Central', 'roomCount': 9}",4.0,0.0
+253,4.0,2542.0,"{'architectureType': 'Colonial', 'cooling': True, 'coolingType': 'Commercial', 'exteriorType': 'Aluminum / Vinyl Siding', 'fireplace': True, 'floorCount': 2, 'foundationType': 'Raised', 'garage': True, 'garageType': 'Detached', 'heating': True, 'heatingType': 'Gas', 'roomCount': 9, 'unitCount': 1}",2.0,10803.0
+254,4.0,1980.0,"{'exteriorType': 'OTHER', 'floorCount': 2, 'foundationType': 'Slab / Mat / Raft', 'garage': True, 'garageSpaces': 2, 'garageType': 'Detached', 'roofType': 'Composition Shingle'}",2.5,5401.0
+255,1.0,672.0,"{'cooling': True, 'coolingType': 'Package', 'exteriorType': 'Concrete Block', 'floorCount': 1, 'foundationType': 'Footing', 'heating': True, 'heatingType': 'Package', 'roofType': 'Composition Shingle', 'unitCount': 1}",1.0,1133.0
+256,2.0,728.0,"{'architectureType': 'Mobile Home', 'cooling': True, 'coolingType': 'Commercial', 'exteriorType': 'Wood', 'floorCount': 1, 'heating': True, 'roomCount': 4}",1.0,0.0
+257,3.0,1356.0,unknown,2.0,4800.0
+258,2.0,1071.0,unknown,2.0,0.0
+259,0.0,0.0,{},0.0,10000.0
+260,3.0,1578.0,"{'cooling': True, 'coolingType': 'Commercial', 'exteriorType': 'Brick', 'fireplace': True, 'floorCount': 1, 'foundationType': 'Other', 'heating': True, 'heatingType': 'Central', 'roofType': 'Composition Shingle', 'unitCount': 1}",2.0,121097.0
+261,1.0,0.0,{},1.0,0.0
+262,3.0,1851.0,"{'architectureType': 'Ranch', 'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Stucco', 'fireplace': True, 'floorCount': 1, 'garage': True, 'garageType': 'Detached', 'heating': True, 'heatingType': 'Central', 'roofType': 'Asphalt', 'roomCount': 7, 'unitCount': 1}",1.0,10890.0
+263,3.0,926.0,"{'exteriorType': 'Wood', 'floorCount': 1, 'foundationType': 'Footing', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Asphalt', 'unitCount': 1}",1.0,13068.0
+264,4.0,1964.0,"{'cooling': True, 'coolingType': 'Central', 'floorCount': 1, 'garage': True, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Central', 'roomCount': 8, 'unitCount': 1}",2.0,6695.0
+265,3.0,1194.0,"{'architectureType': 'Traditional', 'cooling': True, 'coolingType': 'Central', 'exteriorType': 'OTHER', 'floorCount': 1, 'foundationType': 'OTHER', 'garage': True, 'garageSpaces': 1, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Central', 'roofType': 'Metal', 'roomCount': 7, 'unitCount': 1}",2.0,43560.0
+266,3.0,2082.0,"{'architectureType': 'Split Level', 'exteriorType': 'OTHER', 'fireplace': True, 'floorCount': 1, 'garage': True, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Composition Shingle', 'unitCount': 1}",1.5,18295.0
+267,0.0,0.0,unknown,0.0,11079.0
+268,0.0,1762.0,"{'architectureType': 'Condo / Apartment', 'unitCount': 1}",0.0,0.0
+269,3.0,2336.0,unknown,2.0,0.0
+270,4.0,1986.0,"{'architectureType': 'Contemporary', 'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Combination', 'fireplace': True, 'floorCount': 1, 'foundationType': 'Slab / Mat / Raft', 'garage': True, 'garageSpaces': 2, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Asphalt', 'roomCount': 7, 'unitCount': 1}",2.0,8625.0
+271,3.0,1400.0,"{'architectureType': 'Condo / Apartment', 'exteriorType': 'Brick', 'floorCount': 2, 'garage': True, 'garageSpaces': 1, 'garageType': 'Basement', 'heating': True, 'heatingType': 'Forced Air', 'roomCount': 6, 'unitCount': 1, 'viewType': 'Average'}",1.0,1414.0
+272,0.0,2277.0,"{'cooling': True, 'coolingType': 'Commercial', 'fireplace': True, 'floorCount': 2, 'foundationType': 'Slab / Mat / Raft', 'garage': True, 'garageSpaces': 2, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Central', 'roofType': 'Composition Shingle', 'unitCount': 1}",2.0,8738.0
+273,5.0,2760.0,unknown,3.0,0.0
+274,2.0,1024.0,"{'cooling': True, 'coolingType': 'Commercial', 'exteriorType': 'Aluminum / Vinyl Siding', 'floorCount': 1, 'foundationType': 'Block', 'garage': True, 'garageType': 'Built-in', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Composition Shingle', 'roomCount': 8, 'unitCount': 1, 'architectureType': 'Ranch'}",2.0,3984.0
+275,3.0,1095.0,"{'cooling': True, 'coolingType': 'Commercial', 'exteriorType': 'Aluminum / Vinyl Siding', 'foundationType': 'Slab / Mat / Raft', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Composition Shingle'}",1.0,0.0
+276,0.0,1321.0,"{'cooling': True, 'coolingType': 'Central', 'floorCount': 1, 'garage': True, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Central', 'roofType': 'Asphalt', 'roomCount': 1, 'unitCount': 1}",2.0,18469.0
+277,4.0,2604.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Brick Veneer', 'fireplace': True, 'fireplaceType': 'Single', 'floorCount': 2, 'foundationType': 'Slab / Mat / Raft', 'garage': True, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Central', 'pool': True, 'poolType': 'Pool and Hot Tub / Spa', 'roofType': 'Composition Shingle', 'unitCount': 1}",2.0,7110.0
+278,3.0,1366.0,"{'cooling': True, 'coolingType': 'Commercial', 'heating': True, 'heatingType': 'Central', 'unitCount': 1}",2.0,7206.0
+279,4.0,3456.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Brick / Stone', 'fireplace': True, 'floorCount': 2, 'garage': True, 'garageType': 'Detached', 'roofType': 'Shingle', 'unitCount': 1}",2.0,6200.0
+280,0.0,0.0,unknown,0.0,13939.0
+281,0.0,1030.0,"{'architectureType': 'Other', 'cooling': True, 'coolingType': 'Commercial', 'exteriorType': 'Aluminum / Vinyl Siding', 'floorCount': 2, 'garage': True, 'garageSpaces': 1, 'garageType': 'Underground / Basement', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Asphalt', 'unitCount': 1}",2.0,0.0
+282,0.0,1032.0,"{'exteriorType': 'Other', 'floorCount': 1, 'foundationType': 'Pier / Post & Beam', 'garage': True, 'garageType': 'Mixed', 'unitCount': 1}",0.0,10149.0
+283,3.0,1248.0,"{'architectureType': 'Conventional', 'exteriorType': 'Shingle', 'floorCount': 2, 'heating': True, 'heatingType': 'Hot Water', 'roofType': 'Asphalt'}",2.0,7611.0
+284,0.0,1305.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Brick', 'fireplace': True, 'floorCount': 1, 'garage': True, 'garageSpaces': 2, 'garageType': 'Detached', 'heating': True, 'heatingType': 'Central'}",1.0,10498.0
+285,0.0,0.0,unknown,0.0,186437.0
+286,2.0,720.0,"{'cooling': True, 'coolingType': 'Commercial', 'garage': True, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Forced Air'}",1.0,6229.0
+287,4.0,3482.0,unknown,3.0,0.0
+288,0.0,2110.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Brick Veneer', 'fireplace': True, 'fireplaceType': 'Single', 'floorCount': 1, 'foundationType': 'Slab / Mat / Raft', 'garage': True, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Central', 'pool': True, 'poolType': 'Above-Ground Pool', 'roofType': 'Shingle'}",2.0,0.0
+289,2.0,690.0,"{'architectureType': 'Multi-Unit Building', 'cooling': True, 'coolingType': 'Central', 'floorCount': 1, 'heating': True, 'heatingType': 'Central', 'roomCount': 4, 'unitCount': 1}",1.0,435.0
+290,4.0,2327.0,"{'cooling': True, 'coolingType': 'Central', 'fireplace': True, 'floorCount': 2, 'foundationType': 'Slab / Mat / Raft', 'garage': True, 'garageSpaces': 3, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Central', 'roofType': 'Wood Shingle', 'roomCount': 8, 'unitCount': 1}",3.0,8533.0
+291,0.0,1056.0,"{'floorCount': 2, 'unitCount': 1}",0.0,2500.0
+292,4.0,1419.0,"{'architectureType': 'Colonial', 'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Asbestos Shingle', 'floorCount': 2, 'garage': True, 'garageSpaces': 2, 'garageType': 'Detached', 'heating': True, 'heatingType': 'Central', 'roomCount': 7, 'unitCount': 1}",1.0,4922.0
+293,5.0,2388.0,unknown,2.0,0.0
+294,3.0,1566.0,"{'cooling': True, 'coolingType': 'Central', 'fireplace': True, 'floorCount': 2, 'foundationType': 'Slab', 'garage': True, 'garageSpaces': 2, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Central', 'roofType': 'Wood Shake / Shingle', 'roomCount': 7, 'unitCount': 1}",3.0,5227.0
+295,4.0,2467.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Brick Veneer', 'floorCount': 2, 'foundationType': 'Slab / Mat / Raft', 'garage': True, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Central', 'roofType': 'Composition Shingle'}",3.0,6216.0
+296,3.0,1651.0,"{'exteriorType': 'Stucco', 'floorCount': 1, 'foundationType': 'OTHER', 'garage': True, 'garageType': 'Attached', 'roofType': 'Shingle', 'unitCount': 1}",2.0,7288.0
+297,0.0,0.0,unknown,0.0,419047.0
+298,3.0,1946.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Brick Veneer', 'fireplace': True, 'floorCount': 1, 'foundationType': 'Slab / Mat / Raft', 'garage': True, 'garageSpaces': 2, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Central', 'roofType': 'Composition Shingle', 'unitCount': 1}",2.0,8607.0
+299,3.0,5152.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Brick Veneer', 'fireplace': True, 'floorCount': 2, 'foundationType': 'Pier / Post & Beam', 'garage': True, 'garageSpaces': 2, 'garageType': 'Carport', 'heating': True, 'heatingType': 'Central', 'roofType': 'Composition Shingle', 'unitCount': 1}",4.5,20000.0
+300,3.0,1634.0,"{'architectureType': 'Conventional', 'cooling': True, 'coolingType': 'Commercial', 'exteriorType': 'Wood', 'fireplace': True, 'floorCount': 2, 'garage': True, 'garageSpaces': 1, 'garageType': 'Detached Garage', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Wood Shake / Shingle', 'unitCount': 1}",3.0,2277.0
+301,3.0,1288.0,"{'architectureType': 'Mobile Home', 'cooling': True, 'coolingType': 'Commercial', 'exteriorType': 'Metal', 'floorCount': 1, 'foundationType': 'Pier / Post & Beam', 'unitCount': 1}",2.0,0.0
+302,2.0,1572.0,"{'architectureType': 'Townhouse', 'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Frame Brick', 'floorCount': 2, 'heating': True, 'heatingType': 'Central', 'roomCount': 5}",2.5,871.0
+303,0.0,1458.0,"{'architectureType': 'Mobile Home', 'cooling': True, 'exteriorType': 'Wood', 'floorCount': 1, 'foundationType': 'Footing', 'heating': True, 'heatingType': 'Heat Pump', 'unitCount': 1}",2.0,135907.0
+304,3.0,1984.0,"{'cooling': True, 'coolingType': 'Commercial', 'exteriorType': 'Stucco', 'floorCount': 1, 'foundationType': 'OTHER', 'garage': True, 'garageType': 'Garage', 'heating': True, 'roofType': 'Composition Shingle', 'roomCount': 8, 'unitCount': 1}",2.0,20000.0
+305,3.0,1836.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Stucco', 'fireplace': True, 'floorCount': 2, 'garage': True, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Composition Shingle', 'unitCount': 1}",2.5,11831.0
+306,0.0,0.0,unknown,0.0,21824.0
+307,3.0,656.0,"{'architectureType': 'Conventional', 'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Vinyl', 'floorCount': 2, 'foundationType': 'Stone', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Composition Shingle', 'unitCount': 1}",1.0,5663.0
+308,0.0,2453.0,{},0.0,10019.0
+309,0.0,2107.0,"{'cooling': True, 'coolingType': 'Refrigeration', 'exteriorType': 'Wood', 'floorCount': 1, 'garage': True, 'garageSpaces': 2, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Other', 'roomCount': 6, 'unitCount': 1}",2.0,6398.0
+310,3.0,1523.0,unknown,2.0,0.0
+311,3.0,882.0,"{'architectureType': 'Ranch', 'cooling': True, 'coolingType': 'Commercial', 'garage': True, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Forced Air', 'unitCount': 1}",1.0,3485.0
+312,3.0,1644.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Brick / Stone', 'fireplace': True, 'floorCount': 1, 'garage': True, 'garageSpaces': 3, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Central', 'roofType': 'Asphalt', 'roomCount': 5}",2.0,8576.0
+313,3.0,948.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Wood', 'floorCount': 1, 'foundationType': 'Raised', 'garage': True, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Central', 'roofType': 'Tile', 'roomCount': 6, 'unitCount': 1}",1.0,9583.0
+314,1.0,600.0,{},1.0,0.0
+315,3.0,1939.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Brick', 'fireplace': True, 'floorCount': 1, 'foundationType': 'Slab / Mat / Raft', 'garage': True, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Central', 'roofType': 'Composition Shingle', 'unitCount': 1}",2.0,0.0
+316,3.0,1064.0,"{'architectureType': 'Colonial', 'exteriorType': 'Other', 'floorCount': 2, 'garage': True, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Central', 'roofType': 'Shingle', 'roomCount': 6, 'unitCount': 1}",1.0,5000.0
+317,3.0,1408.0,"{'cooling': True, 'coolingType': 'Commercial', 'fireplace': True, 'fireplaceType': 'Single', 'floorCount': 1, 'garage': True, 'garageSpaces': 1, 'garageType': 'Attached Garage', 'heating': True, 'heatingType': 'Central', 'roomCount': 7, 'unitCount': 1}",1.0,5000.0
+318,4.0,2797.0,unknown,2.5,7362.0
+319,1.0,1068.0,"{'pool': True, 'poolType': 'Pool and Hot Tub / Spa', 'roomCount': 3, 'unitCount': 101, 'viewType': 'Average'}",1.0,1067.0
+320,3.0,2330.0,"{'architectureType': 'Ranch', 'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Stucco', 'floorCount': 1, 'garage': True, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Forced Air', 'pool': True, 'poolType': 'Pool and Hot Tub / Spa', 'roofType': 'Asphalt', 'unitCount': 1}",3.0,10846.0
+321,4.0,2246.0,unknown,3.0,2825.0
+322,2.0,876.0,"{'floorCount': 1, 'foundationType': 'Crawl / Raised', 'heating': True, 'heatingType': 'Central', 'roofType': 'Asphalt', 'roomCount': 5}",1.0,5000.0
+323,3.0,2355.0,unknown,3.0,54014.0
+324,1.0,1272.0,unknown,1.5,11029.0
+325,3.0,1220.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Stucco', 'floorCount': 1, 'foundationType': 'Slab / Mat / Raft', 'roofType': 'Composition Shingle', 'unitCount': 1}",1.0,7005.0
+326,3.0,2314.0,"{'architectureType': 'Raised Ranch', 'cooling': True, 'coolingType': 'Evaporative', 'exteriorType': 'Brick / Stone', 'fireplace': True, 'floorCount': 1, 'foundationType': 'Block', 'garage': True, 'garageSpaces': 2, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Composition Shingle', 'unitCount': 1}",3.0,0.0
+327,4.0,2859.0,unknown,3.0,22651.0
+328,0.0,1943.0,"{'floorCount': 1, 'unitCount': 1}",0.0,12632.0
+329,0.0,1369.0,"{'cooling': True, 'coolingType': 'Commercial', 'exteriorType': 'Wood Siding', 'fireplace': True, 'floorCount': 1, 'foundationType': 'Slab', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Metal'}",0.0,57499.0
+330,3.0,1763.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Brick Veneer', 'fireplace': True, 'floorCount': 1, 'foundationType': 'Slab / Mat / Raft', 'garage': True, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Central', 'roofType': 'Composition Shingle'}",2.0,6360.0
+331,3.0,1299.0,"{'cooling': True, 'coolingType': 'Central', 'floorCount': 1, 'garage': True, 'garageSpaces': 2, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Central', 'unitCount': 1}",2.0,4095.0
+332,2.0,1030.0,"{'architectureType': 'Single Story', 'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Stucco', 'floorCount': 1, 'garage': True, 'garageSpaces': 1, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Tile', 'roomCount': 5, 'unitCount': 1}",2.0,4356.0
+333,4.0,7041.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Stucco', 'fireplace': True, 'floorCount': 2, 'foundationType': 'Slab / Mat / Raft', 'garage': True, 'garageSpaces': 4, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Central', 'pool': True, 'poolType': 'Pool, Gunite', 'roomCount': 12, 'unitCount': 1}",5.5,37753.0
+334,3.0,2150.0,unknown,2.0,0.0
+335,2.0,650.0,unknown,1.0,0.0
+336,1.0,745.0,"{'architectureType': 'Condo / Apartment', 'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Brick Veneer', 'fireplace': True, 'floorCount': 1, 'foundationType': 'Slab / Mat / Raft', 'heating': True, 'heatingType': 'Central', 'roofType': 'Composition Shingle', 'unitCount': 1}",1.0,157034.0
+337,3.0,1585.0,"{'cooling': True, 'coolingType': 'Commercial', 'exteriorType': 'Stucco', 'floorCount': 1, 'foundationType': 'OTHER', 'garage': True, 'garageType': 'Garage', 'heating': True, 'roofType': 'Composition Shingle', 'roomCount': 5, 'unitCount': 1}",2.0,33124.0
+338,3.0,924.0,"{'heating': True, 'heatingType': 'Forced Air'}",2.5,86249.0
+339,0.0,1927.0,"{'architectureType': 'Split Level', 'cooling': True, 'coolingType': 'Commercial', 'exteriorType': 'Wood', 'fireplace': True, 'fireplaceType': '2 Story', 'floorCount': 2, 'garage': True, 'garageSpaces': 1, 'garageType': 'Carport', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Composition Shingle', 'unitCount': 1}",2.0,6400.0
+340,2.0,967.0,"{'architectureType': 'Condo / Apartment', 'cooling': True, 'coolingType': 'Package', 'fireplace': True, 'garage': True, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Forced Air', 'unitCount': 1}",1.0,0.0
+341,2.0,1019.0,"{'architectureType': 'Condo / Apartment', 'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Stucco', 'fireplace': True, 'floorCount': 1, 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Tile', 'roomCount': 4, 'unitCount': 1, 'pool': True}",2.0,2260.0
+342,3.0,1640.0,"{'architectureType': 'Condo / Apartment', 'cooling': True, 'coolingType': 'Central', 'floorCount': 2, 'foundationType': 'Raised', 'garage': True, 'garageSpaces': 1, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Central', 'roofType': 'Asphalt', 'roomCount': 4}",2.5,1742.0
+343,0.0,2285.0,"{'cooling': True, 'coolingType': 'Refrigeration', 'exteriorType': 'Wood', 'floorCount': 1, 'garage': True, 'garageSpaces': 2, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Forced Air', 'pool': True, 'roofType': 'Concrete Tile', 'roomCount': 9, 'unitCount': 1}",2.0,14288.0
+344,3.0,1021.0,"{'architectureType': 'Conventional', 'floorCount': 1, 'garage': True, 'garageSpaces': 1, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Floor / Wall', 'roomCount': 7, 'unitCount': 1}",1.0,5455.0
+345,2.0,1062.0,"{'architectureType': 'Contemporary', 'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Wood', 'fireplace': True, 'fireplaceType': 'Masonry', 'floorCount': 1, 'foundationType': 'Pier', 'heating': True, 'heatingType': 'Electric', 'roofType': 'Asphalt', 'roomCount': 4, 'unitCount': 1}",2.0,10890.0
+346,2.0,583.0,unknown,1.0,4792.0
+347,5.0,3356.0,"{'architectureType': 'Conventional', 'cooling': True, 'coolingType': 'Commercial', 'exteriorType': 'OTHER', 'fireplace': True, 'floorCount': 2, 'garage': True, 'garageSpaces': 2, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Composition Shingle', 'roomCount': 9, 'unitCount': 1}",4.0,13068.0
+348,0.0,910.0,"{'architectureType': 'Conventional', 'cooling': True, 'coolingType': 'Commercial', 'exteriorType': 'Wood', 'fireplace': True, 'floorCount': 1, 'garage': True, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Composition Shingle', 'unitCount': 1}",1.0,17843.0
+349,3.0,1456.0,"{'architectureType': 'Ranch', 'exteriorType': 'Brick', 'fireplace': True, 'floorCount': 1, 'foundationType': 'Masonry', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Asphalt', 'roomCount': 6, 'unitCount': 1}",2.0,12632.0
+350,3.0,1850.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Aluminum / Vinyl Siding', 'fireplace': True, 'floorCount': 1, 'foundationType': 'Footing', 'heating': True, 'heatingType': 'Heat Pump', 'roofType': 'Wood Shingle'}",2.0,18731.0
+351,2.0,930.0,"{'floorCount': 1, 'heating': True, 'heatingType': 'Electric', 'unitCount': 1}",1.0,1540.0
+352,4.0,2297.0,"{'fireplace': True, 'floorCount': 1, 'garage': True, 'garageSpaces': 2, 'garageType': 'Garage', 'roomCount': 11, 'unitCount': 1}",3.0,8250.0
+353,3.0,2202.0,unknown,2.5,0.0
+354,4.0,4120.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Brick Veneer', 'fireplace': True, 'floorCount': 1, 'foundationType': 'Slab / Mat / Raft', 'garage': True, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Central', 'roofType': 'Composition Shingle'}",4.5,43560.0
+355,3.0,1781.0,"{'cooling': True, 'coolingType': 'Central', 'fireplace': True, 'fireplaceType': 'Masonry', 'floorCount': 1, 'foundationType': 'Raised', 'garage': True, 'garageSpaces': 2, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Central', 'roofType': 'Asphalt', 'roomCount': 5}",2.0,11979.0
+356,3.0,1445.0,"{'architectureType': 'Split Level', 'cooling': True, 'coolingType': 'Commercial', 'exteriorType': 'Stucco', 'floorCount': 2, 'foundationType': 'OTHER', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Composition Shingle', 'roomCount': 6, 'unitCount': 1}",2.0,9120.0
+357,3.0,1281.0,"{'cooling': True, 'coolingType': 'Central', 'fireplace': True, 'floorCount': 1, 'garage': True, 'garageSpaces': 1, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Central', 'roofType': 'Tile', 'unitCount': 1}",2.0,7405.0
+358,1.0,793.0,unknown,1.0,0.0
+359,3.0,1571.0,"{'cooling': True, 'coolingType': 'Commercial', 'exteriorType': 'Brick / Stone', 'fireplace': True, 'floorCount': 1, 'foundationType': 'Slab / Mat / Raft', 'garage': True, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Composition Shingle', 'roomCount': 7, 'unitCount': 1}",2.0,12197.0
+360,3.0,1440.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Concrete Block', 'foundationType': 'Slab / Mat / Raft', 'garage': True, 'garageSpaces': 2, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Central', 'roomCount': 6}",2.0,7179.0
+361,0.0,2821.0,"{'exteriorType': 'Stucco', 'floorCount': 1, 'garage': True, 'garageSpaces': 2, 'garageType': 'Garage', 'heating': True, 'roofType': 'Concrete', 'cooling': True, 'coolingType': 'Refrigeration'}",4.0,9031.0
+362,0.0,1636.0,"{'architectureType': 'Ranch', 'fireplace': True, 'garage': True, 'garageType': 'Garage', 'unitCount': 1}",2.5,20430.0
+363,2.0,1025.0,"{'architectureType': 'Conventional', 'exteriorType': 'Metal', 'fireplace': True, 'floorCount': 1, 'garage': True, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Composition Shingle'}",1.0,0.0
+364,4.0,2551.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Brick Veneer', 'fireplace': True, 'fireplaceType': 'Single', 'floorCount': 2, 'foundationType': 'Concrete', 'garage': True, 'garageSpaces': 1, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Central', 'roofType': 'Composition Shingle', 'unitCount': 1}",2.5,6055.0
+365,3.0,1904.0,"{'cooling': True, 'coolingType': 'Refrigeration', 'exteriorType': 'Stucco', 'floorCount': 1, 'garage': True, 'garageSpaces': 2, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Asphalt', 'roomCount': 6, 'unitCount': 1}",2.0,10019.0
+366,5.0,3045.0,"{'cooling': True, 'coolingType': 'Central', 'fireplace': True, 'floorCount': 1, 'garage': True, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Central', 'roofType': 'Tile', 'unitCount': 1}",4.0,11761.0
+367,3.0,1585.0,"{'cooling': True, 'coolingType': 'Commercial', 'exteriorType': 'Stucco', 'floorCount': 2, 'foundationType': 'Block', 'garage': True, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Composition Shingle', 'roomCount': 8, 'unitCount': 1}",2.0,7841.0
+368,2.0,902.0,"{'architectureType': 'Condo / Apartment', 'unitCount': 1}",2.0,43560.0
+369,3.0,1462.0,unknown,1.0,30492.0
+370,3.0,1050.0,"{'cooling': True, 'exteriorType': 'Aluminum / Vinyl Siding', 'floorCount': 1, 'foundationType': 'Slab / Mat / Raft', 'heating': True, 'roofType': 'Shingle', 'roomCount': 6, 'unitCount': 1}",1.0,0.0
+371,0.0,0.0,{},0.0,108900.0
+372,1.0,810.0,"{'cooling': True, 'coolingType': 'Central', 'fireplace': True, 'fireplaceType': 'Masonry', 'floorCount': 1, 'garage': True, 'garageType': 'Detached', 'heating': True, 'heatingType': 'Central', 'roofType': 'Asphalt', 'roomCount': 4, 'unitCount': 1}",0.0,10062.0
+373,3.0,1458.0,"{'architectureType': 'Colonial', 'cooling': True, 'exteriorType': 'Aluminum / Vinyl Siding', 'floorCount': 2, 'garage': True, 'garageSpaces': 1, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Gas', 'roomCount': 4, 'coolingType': 'Commercial'}",1.5,4639.0
+374,3.0,1350.0,"{'cooling': True, 'coolingType': 'Commercial', 'floorCount': 1, 'garage': True, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Heat Pump', 'roofType': 'Asphalt', 'roomCount': 6}",2.5,21780.0
+375,2.0,922.0,unknown,1.5,0.0
+376,2.0,1485.0,"{'cooling': True, 'coolingType': 'Commercial', 'exteriorType': 'Stucco', 'fireplace': True, 'floorCount': 1, 'foundationType': 'Slab / Mat / Raft', 'garage': True, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Composition Shingle', 'unitCount': 1, 'viewType': 'Golf Course'}",2.0,15000.0
+377,2.0,1236.0,"{'garage': True, 'garageSpaces': 1}",2.0,0.0
+378,4.0,2811.0,"{'cooling': True, 'coolingType': 'Wall', 'exteriorType': 'Wood', 'fireplace': True, 'fireplaceType': 'Prefab', 'foundationType': 'Footing', 'garage': True, 'garageType': 'Garage', 'heating': True, 'roofType': 'Composition Shingle', 'unitCount': 1}",3.0,7841.0
+379,3.0,2252.0,unknown,2.0,0.0
+380,0.0,2744.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Brick Veneer', 'fireplace': True, 'floorCount': 2, 'foundationType': 'Slab / Mat / Raft', 'garage': True, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Central', 'unitCount': 1}",2.5,6675.0
+381,2.0,1220.0,"{'architectureType': 'Condo / Apartment', 'cooling': True, 'coolingType': 'Commercial', 'exteriorType': 'OTHER', 'floorCount': 2, 'garage': True, 'garageType': 'Carport', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Asphalt', 'roomCount': 4}",1.5,0.0
+382,4.0,3040.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Brick', 'fireplace': True, 'fireplaceType': '2 Story', 'floorCount': 2, 'foundationType': 'Raised', 'garage': True, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Wood', 'unitCount': 1}",2.5,16070.0
+383,2.0,1200.0,"{'architectureType': 'Other', 'exteriorType': 'Aluminum / Vinyl Siding', 'floorCount': 1, 'garage': True, 'garageSpaces': 1, 'garageType': 'Attached Garage', 'heating': True, 'heatingType': 'Forced Air', 'unitCount': 1}",2.0,4402.0
+384,4.0,2464.0,"{'cooling': True, 'coolingType': 'Commercial', 'fireplace': True, 'floorCount': 2, 'foundationType': 'Slab / Mat / Raft', 'garage': True, 'garageSpaces': 2, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Central', 'roofType': 'Composition Shingle'}",2.0,9527.0
+385,3.0,1684.0,"{'architectureType': 'Colonial', 'exteriorType': 'Wood', 'fireplace': True, 'floorCount': 2, 'garage': True, 'garageSpaces': 2, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Forced Air', 'unitCount': 1}",2.0,22216.0
+386,3.0,1801.0,"{'cooling': True, 'coolingType': 'Central', 'floorCount': 1, 'garage': True, 'garageSpaces': 2, 'garageType': 'Garage', 'roomCount': 8, 'unitCount': 1}",2.0,5818.0
+387,3.0,1778.0,"{'architectureType': 'Mobile Home', 'exteriorType': 'OTHER', 'floorCount': 1, 'heating': True, 'heatingType': 'Hot Water', 'roofType': 'Asphalt'}",1.5,26572.0
+388,0.0,1615.0,"{'exteriorType': 'Stucco', 'floorCount': 1, 'foundationType': 'OTHER', 'garage': True, 'garageType': 'Mixed', 'heating': True, 'heatingType': 'Heat Pump', 'roofType': 'Composition Shingle', 'unitCount': 1}",0.0,47045.0
+389,3.0,1843.0,"{'architectureType': 'Condo / Apartment', 'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Brick', 'fireplace': True, 'floorCount': 2, 'foundationType': 'Slab / Mat / Raft', 'garage': True, 'garageSpaces': 2, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Central', 'roomCount': 6, 'pool': True, 'poolType': 'Community Pool'}",2.0,1742.0
+390,0.0,1449.0,"{'exteriorType': 'Wood', 'floorCount': 2, 'garage': True, 'garageSpaces': 1, 'garageType': 'Garage', 'unitCount': 1}",0.0,12502.0
+391,3.0,1836.0,unknown,2.5,0.0
+392,4.0,1912.0,{},3.0,7078.0
+393,2.0,795.0,"{'cooling': True, 'coolingType': 'Central', 'floorCount': 1, 'foundationType': 'Slab', 'garage': True, 'garageSpaces': 1, 'garageType': 'Garage', 'heating': True, 'heatingType': 'Central', 'roofType': 'Wood Shake / Shingle', 'roomCount': 4, 'unitCount': 1}",1.0,2014.0
+394,0.0,0.0,unknown,0.0,958320.0
+395,3.0,858.0,"{'architectureType': 'Traditional', 'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Aluminum / Vinyl Siding', 'floorCount': 1, 'foundationType': 'Block', 'garage': True, 'garageType': 'Mixed', 'heating': True, 'heatingType': 'Central', 'roofType': 'Composition Shingle', 'roomCount': 5}",1.0,10872.0
+396,2.0,1068.0,"{'architectureType': 'Condo / Apartment', 'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Other', 'floorCount': 1, 'heating': True, 'heatingType': 'Forced Air', 'roomCount': 5, 'unitCount': 1}",1.0,1067.0
+397,5.0,3712.0,"{'architectureType': 'Conventional', 'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Brick', 'fireplace': True, 'fireplaceType': 'Masonry', 'floorCount': 2, 'foundationType': 'Raised', 'garage': True, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Composition Shingle', 'roomCount': 7, 'unitCount': 1}",4.0,10498.0
+398,4.0,1738.0,"{'architectureType': 'Bungalow', 'cooling': True, 'coolingType': 'Commercial', 'exteriorType': 'Brick / Stone', 'floorCount': 2, 'garage': True, 'garageSpaces': 2, 'garageType': 'Detached', 'roofType': 'Shingle', 'unitCount': 1}",2.5,3625.0
+399,3.0,0.0,unknown,2.0,0.0
+400,2.0,1500.0,{},1.0,8712.0
+401,3.0,1470.0,unknown,2.5,0.0
+402,4.0,4210.0,"{'architectureType': 'Colonial', 'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Brick / Stone', 'fireplace': True, 'floorCount': 2, 'garage': True, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Central', 'roomCount': 9, 'unitCount': 1}",2.5,79200.0
+403,3.0,2184.0,"{'architectureType': 'Colonial', 'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Aluminum / Vinyl Siding', 'fireplace': True, 'floorCount': 2, 'foundationType': 'Raised', 'garage': True, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Electric', 'roomCount': 5, 'unitCount': 1}",2.5,6987.0
+404,4.0,1454.0,"{'cooling': True, 'coolingType': 'Central', 'exteriorType': 'Other', 'floorCount': 2, 'heating': True, 'heatingType': 'Oil', 'unitCount': 1}",2.0,5306.0
+405,4.0,2491.0,"{'cooling': True, 'coolingType': 'Commercial', 'fireplace': True, 'floorCount': 1, 'foundationType': 'Slab / Mat / Raft', 'garage': True, 'garageSpaces': 2, 'garageType': 'Attached', 'heating': True, 'heatingType': 'Central', 'roofType': 'Composition Shingle', 'unitCount': 1}",2.0,9056.0
+406,3.0,1030.0,"{'architectureType': 'Ranch', 'cooling': True, 'coolingType': 'Commercial', 'fireplace': True, 'floorCount': 1, 'foundationType': 'Slab / Mat / Raft', 'heating': True, 'roomCount': 5, 'unitCount': 1, 'garage': True, 'garageType': 'Garage'}",2.0,11251.0
+407,0.0,1330.0,"{'cooling': True, 'coolingType': 'Refrigeration', 'exteriorType': 'Block', 'floorCount': 1, 'garage': True, 'garageSpaces': 2, 'garageType': 'Carport', 'heating': True, 'heatingType': 'Forced Air', 'roofType': 'Asphalt', 'roomCount': 6, 'unitCount': 1}",2.0,7048.0
