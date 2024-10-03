@@ -1,6 +1,6 @@
 # Case Study For Zuma Realtors
 
-# EXECUTIVE SUMMARY
+### EXECUTIVE SUMMARY
 
 Company Overview:
 Zuma Realtors is a real estate firm specializing in residential properties,
@@ -16,7 +16,7 @@ Implementing APIs, especially for ETL (Extract, Transform, Load) processes,
 is central to achieving operational efficiency and maintaining a competitive
 edge.
 
-# BUSINESS PROBLEM STATEMENT
+### BUSINESS PROBLEM STATEMENT
 
 Challenges:
 Zuma Realtors struggles with manual data handling, inconsistent data
@@ -31,7 +31,7 @@ Objective:
 To implement an efficient, ETL solution using RapidAPI to access and
 integrate diverse real estate data sources.
 
-# OBJECTIVES
+### OBJECTIVES
 
 Data Accuracy:
 Ensure high-quality, accurate data is available for analysis.
@@ -44,7 +44,7 @@ Analysis Readiness:
 Data is pre-processed and formatted for immediate analysis, supporting
 dynamic market assessments and strategic planning.
 
-# BENEFITS
+### BENEFITS
 
 Operational Efficiency:
 Automated ETL processes reduce manual labor and errors, speeding up
@@ -58,7 +58,7 @@ Decision-Making:
 Access to timely, high-quality data supports strategic decisions, market
 predictions, and personalized customer services.
 
-# TECH STUCK
+### TECH STUCK
 1. Python
 2. Pandas
 3. RapidAPI
